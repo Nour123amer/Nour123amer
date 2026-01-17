@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Nour Amer.<br><br> Frontend Developer | React & Next.js Enthusiast<br><br>## About Me<br>- 🎓 Graduate in Management Technology & Information Systems<br>- 💻 Skilled in HTML, CSS, JS, React, Next.js<br><br>## Skills<br>- Frontend: React.js, Next.js, Tailwind, Bootstrap<br>- Tools: Git, GitHub, Apollo Client, Cypress<br>- Others: GraphQL, Testing, Responsive Design<br><br>## Contact Me<br>- Email: nouramer295@gmail.com<br>- LinkedIn: https://www.linkedin.com/in/nour-amer-923614211/<br>
+# Hi, I'm Nour Amer.<br><br> Frontend Developer | React & Next.js developer<br><br>## About Me<br>- 🎓 Graduate in Management Technology & Information Systems<br>- 💻 Skilled in HTML, CSS, JS, React, Next.js<br><br>## Skills<br>- Frontend: React.js, Next.js, Tailwind, Bootstrap<br>- Tools: Git, GitHub, Apollo Client, Cypress<br>- Others: GraphQL, Testing, Responsive Design<br><br>## Contact Me<br>- Email: nouramer295@gmail.com<br>- LinkedIn: https://www.linkedin.com/in/nour-amer-923614211/<br>
 
 
 ## 🌐 Socials:
